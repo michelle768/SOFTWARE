@@ -1,0 +1,1 @@
+en esta practica lo que quiza me costo un poco es que me daba error ala hora de subir los commit pero al final logre subirlos y pues en java se encuentran 3 codigos y en PY tambien se encuentran otros 3 pero los 6 van especificos que son unicamente vasados en una simulacion de un uber 
